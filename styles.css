@@ -1,0 +1,134 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* Sections */
+
+.colored-section {
+	/* background-color: #ff4c68; */
+  
+  color: black;
+}
+
+.white-section {
+  background-color: black;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom:0.5rem ;
+  background-color:black;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+#title{
+  background-color: black;
+  color: #fff;
+  text-align: left;
+}
+
+
+.testimonial
+{
+	padding:0;
+}
+hr
+{
+border-color:black;
+border-width:3px;
+width:10%;
+}
+
+/*.rooms-image:hover {
+  width:340px;
+  padding:0;
+}*/
+
+#rooms
+{
+	padding:4rem;
+}
+#amenties
+{
+	background-color:black;
+	color:white;
+	padding:3rem 7rem;
+}
+.amenties-gap
+{
+	padding-right:4.5rem;
+}
+.carousel-caption
+{
+	line-height:8;
+}
+#about
+{
+	padding:3rem 0;
+}
+.about-row
+{
+	width:50%;
+	margin:100px auto 100px auto;
+	text-align:left;
+}
+.xyz
+{
+	width:25%;
+	float:left;
+	margin-right:30px;
+}
+.pqr
+{
+	width:45%;
+	
+	float:right;
+	margin-left:30px;
+}
+#contact
+{
+	background-color:black;
+	color:white;
+	padding:3rem 5rem;
+}
+.social-icon
+{
+	margin:20px 10px;
+}
